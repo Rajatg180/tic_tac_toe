@@ -2,4 +2,4 @@
 
 Tic-Tac-Toe  Game created using Minimax Algorithm in C++ 
 
-##You can play this game only with system
+## You can play this game only with system
